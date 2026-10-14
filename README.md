@@ -1,6 +1,6 @@
 ### Hi, I'm Saad 👋
 
-Full-stack developer from Baghdad with 7+ years of experience building secure, Arabic-first enterprise platforms, from the database to the browser to mobile.
+Full-stack developer from Baghdad with 9+ years of experience building secure, Arabic-first enterprise platforms, from the database to the browser to mobile.
 
 - 🏗️ I design systems with **Clean Architecture, Vertical Slices, CQRS and DDD**
 - 🔐 I care about identity and security: **Keycloak, OAuth 2.0 / OIDC, BFF, RBAC, audit trails**
