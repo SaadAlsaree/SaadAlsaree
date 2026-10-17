@@ -5,7 +5,7 @@ Full-stack developer from Baghdad with 9+ years of experience building secure, A
 - 🏗️ I design systems with **Clean Architecture, Vertical Slices, CQRS and DDD**
 - 🔐 I care about identity and security: **Keycloak, OAuth 2.0 / OIDC, BFF, RBAC, audit trails**
 - 🌍 I build **Arabic and RTL first**, with English fully supported
-- 📦 I publish open-source .NET templates on NuGet, **2,400+ downloads** so far
+- 📦 I publish open-source .NET templates on NuGet, **2,500+ downloads** so far
 - 💼 Open to full-stack and .NET roles, remote or hybrid
 
 #### Tech I work with
@@ -28,12 +28,12 @@ Full-stack developer from Baghdad with 9+ years of experience building secure, A
 
 | Package | Downloads |
 |---|---|
-| [NetVerticalSlice.Templates](https://www.nuget.org/packages/NetVerticalSlice.Templates) | 2,086 |
-| [NetVerticalSlice.Wpf.Templates](https://www.nuget.org/packages/NetVerticalSlice.Wpf.Templates) | 197 |
-| [AspirePlatform.Templates](https://www.nuget.org/packages/AspirePlatform.Templates) | 193 |
+| [NetVerticalSlice.Templates](https://www.nuget.org/packages/NetVerticalSlice.Templates) | 2,200+ |
+| [NetVerticalSlice.Wpf.Templates](https://www.nuget.org/packages/NetVerticalSlice.Wpf.Templates) | 206 |
+| [AspirePlatform.Templates](https://www.nuget.org/packages/AspirePlatform.Templates) | 201 |
 
 *Client projects are private. Happy to walk through the architecture in an interview.*
 
 #### Connect
 
-[LinkedIn](https://www.linkedin.com/in/saad-alsaree-0241772ba/)
+[LinkedIn](https://www.linkedin.com/in/saadalsaree)
